@@ -1,6 +1,6 @@
 # C++ ArrayListType Template Class
 
-In this repository, there exists a template class named `arrayListType` in C++. This class provides a data structure based on a dynamically sized array.
+In this repository, there exists a template class named `arrayListType` in C++. I tried to copy this class into my header file(test.h) on my own way. This class provides a data structure based on a dynamically sized array.
 
 ## Usage
 
